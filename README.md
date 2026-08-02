@@ -1,57 +1,79 @@
+<div align="center">
+
 # 🚗 China Yadak Saeid
 
-> E-commerce website for automotive spare parts.
+### Automotive Spare Parts E-Commerce Platform
 
-🌐 **Live Website:** https://chinayadaksaeid.ir
+A custom PHP-based e-commerce website for selling automotive spare parts.
 
----
+<br>
 
-## 📌 About
+[🌐 Live Website](https://chinayadaksaeid.ir)
 
-China Yadak Saeid is a custom e-commerce website developed for selling automotive spare parts.
-
-The platform is designed to provide customers with a clear and accessible way to explore available vehicle parts and find the products they need.
+</div>
 
 ---
 
-## ✨ Features
+## ✦ Overview
+
+**China Yadak Saeid** is a custom-built e-commerce platform developed for an automotive spare-parts business.
+
+The website provides a dedicated online presence for presenting and selling vehicle parts, with an interface designed around product discovery, accessibility, and a straightforward customer experience.
+
+The project combines a PHP backend with a responsive frontend to provide a practical foundation for an automotive e-commerce platform.
+
+---
+
+## ✨ Key Features
 
 - 🛒 Automotive spare-parts catalog
-- 🔎 Product discovery
 - 📦 Product presentation
+- 🔎 Product discovery
 - 📱 Responsive design
 - 🌐 Persian-language interface
 - 🔐 HTTPS / SSL
-- ⚡ Lightweight web experience
 - 🔍 SEO-oriented structure
+- ⚡ Lightweight web experience
+- 📲 Customer contact and inquiry flow
 
 ---
 
-## 🎯 Project Goals
+## 🧱 Technology Stack
 
-- Build a professional online presence for the business
-- Make automotive parts easier to discover
-- Present products clearly to customers
-- Provide a foundation for expanding the website into a larger e-commerce platform
+| Layer | Technologies |
+|---|---|
+| Backend | **PHP** |
+| Frontend | HTML5 · CSS3 · JavaScript |
+| Database | Project-dependent |
+| Web | Responsive Web Design |
+| SEO | On-page SEO fundamentals |
+| Deployment | Web Hosting · HTTPS |
+| Version Control | Git · GitHub |
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Project Objectives
 
-- PHP
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
-- SEO
-- Git / GitHub
-- Web Deployment
+The project was developed with several practical goals:
+
+- Establish a professional online presence
+- Present automotive parts in a clear structure
+- Make product discovery easier for customers
+- Provide a foundation for future e-commerce expansion
+- Maintain a lightweight and accessible user experience
 
 ---
 
 ## 🌐 Live Demo
 
-**https://chinayadaksaeid.ir**
+**Production:**  
+https://chinayadaksaeid.ir
+
+---
+
+## 📸 Screenshots
+
+> Screenshots can be added here to showcase the main pages and responsive layouts.
 
 ---
 
@@ -59,5 +81,15 @@ The platform is designed to provide customers with a clear and accessible way to
 
 **Mohammad**
 
+Python · PHP · Web Development · Backend · AI · Automation
+
 🌐 https://mohammaddev.gt.tc  
 💬 https://t.me/mrmohammad_dev
+
+---
+
+<div align="center">
+
+**Built with PHP and a focus on practical e-commerce development.**
+
+</div>
