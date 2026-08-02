@@ -1,95 +1,79 @@
 <div align="center">
 
-# 🚗 China Yadak Saeid
+# 🚗 چین یدک سعید
 
-### Automotive Spare Parts E-Commerce Platform
+### فروش آنلاین قطعات خودرو
 
-A custom PHP-based e-commerce website for selling automotive spare parts.
+<p>
+  <strong>یک وب‌سایت اختصاصی برای معرفی و فروش قطعات خودرو</strong>
+</p>
 
 <br>
 
-[🌐 Live Website](https://chinayadaksaeid.ir)
+<a href="https://chinayadaksaeid.ir">
+  <img src="https://img.shields.io/badge/🌐_وب‌سایت-مشاهده_پروژه-0f766e?style=for-the-badge" alt="Live Website">
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Backend-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/Status-Live-16a34a?style=for-the-badge" alt="Status">
 
 </div>
 
 ---
 
-## ✦ Overview
+## ✦ درباره پروژه
 
-**China Yadak Saeid** is a custom-built e-commerce platform developed for an automotive spare-parts business.
+**چین یدک سعید** یک وب‌سایت اختصاصی برای **فروش قطعات خودرو** است که با هدف ایجاد یک حضور حرفه‌ای در فضای آنلاین و ارائه محصولات به مشتریان توسعه داده شده است.
 
-The website provides a dedicated online presence for presenting and selling vehicle parts, with an interface designed around product discovery, accessibility, and a straightforward customer experience.
-
-The project combines a PHP backend with a responsive frontend to provide a practical foundation for an automotive e-commerce platform.
+این پروژه یک نمونه‌کار واقعی در حوزه توسعه وب و تجارت الکترونیک است و با استفاده از **PHP** در بخش Backend و فناوری‌های استاندارد وب در بخش Frontend پیاده‌سازی شده است.
 
 ---
 
-## ✨ Key Features
+## 🛒 حوزه فعالیت
 
-- 🛒 Automotive spare-parts catalog
-- 📦 Product presentation
-- 🔎 Product discovery
-- 📱 Responsive design
-- 🌐 Persian-language interface
+این وب‌سایت بر ارائه و فروش قطعات خودرو تمرکز دارد.
+
+ساختار پروژه برای ایجاد بستری مناسب جهت:
+
+- معرفی قطعات
+- ارائه محصولات
+- دسترسی بهتر مشتریان به کالاها
+- ایجاد حضور آنلاین برای کسب‌وکار
+- توسعه قابلیت‌های فروش آنلاین
+
+طراحی شده است.
+
+---
+
+## ✨ ویژگی‌های پروژه
+
+- 🚗 فروش قطعات خودرو
+- 📦 نمایش محصولات
+- 🛒 ساختار فروشگاهی
+- 🇮🇷 رابط کاربری فارسی
+- 📱 طراحی واکنش‌گرا
 - 🔐 HTTPS / SSL
-- 🔍 SEO-oriented structure
-- ⚡ Lightweight web experience
-- 📲 Customer contact and inquiry flow
+- 🌐 دامنه اختصاصی
+- ⚙️ Backend مبتنی بر PHP
+- 🎨 رابط کاربری اختصاصی
+- 🚀 استقرار روی هاست واقعی
 
 ---
 
-## 🧱 Technology Stack
+## 🧱 معماری کلی
 
-| Layer | Technologies |
-|---|---|
-| Backend | **PHP** |
-| Frontend | HTML5 · CSS3 · JavaScript |
-| Database | Project-dependent |
-| Web | Responsive Web Design |
-| SEO | On-page SEO fundamentals |
-| Deployment | Web Hosting · HTTPS |
-| Version Control | Git · GitHub |
-
----
-
-## 🎯 Project Objectives
-
-The project was developed with several practical goals:
-
-- Establish a professional online presence
-- Present automotive parts in a clear structure
-- Make product discovery easier for customers
-- Provide a foundation for future e-commerce expansion
-- Maintain a lightweight and accessible user experience
-
----
-
-## 🌐 Live Demo
-
-**Production:**  
-https://chinayadaksaeid.ir
-
----
-
-## 📸 Screenshots
-
-> Screenshots can be added here to showcase the main pages and responsive layouts.
-
----
-
-## 👨‍💻 Developer
-
-**Mohammad**
-
-Python · PHP · Web Development · Backend · AI · Automation
-
-🌐 https://mohammaddev.gt.tc  
-💬 https://t.me/mrmohammad_dev
-
----
-
-<div align="center">
-
-**Built with PHP and a focus on practical e-commerce development.**
-
-</div>
+```text
+Web Application
+│
+├── Frontend
+│   ├── HTML5
+│   ├── CSS3
+│   └── JavaScript
+│
+├── Backend
+│   └── PHP
+│
+└── Deployment
+    ├── Web Hosting
+    ├── HTTPS / SSL
+    └── Custom Domain
