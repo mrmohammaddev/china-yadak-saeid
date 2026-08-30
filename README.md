@@ -113,8 +113,11 @@ https://chinayadaksaeid.ir
 
 ## 📸 Preview
 
-> تصاویر و اسکرین‌شات‌های پروژه را می‌توان در این بخش اضافه کرد.
+<div align="center">
 
+<img src="./screenshot.png" alt="China Yadak Saeid Website Preview" width="900">
+
+</div>
 ---
 
 ## 👨‍💻 توسعه‌دهنده
